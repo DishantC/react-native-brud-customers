@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "879742618722",
+    "firebase_url": "https://brudapp-92583-default-rtdb.firebaseio.com",
+    "project_id": "brudapp-92583",
+    "storage_bucket": "brudapp-92583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879742618722:android:325f70745ffbbad395953b",
+        "android_client_info": {
+          "package_name": "com.brudcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879742618722-a9oj7sv7l7eivjgqdu72qimcqodfahja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brudcustomer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "879742618722-fmnvmnqnr0surgmls4cdjks3ve84fskk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brudcustomer",
+            "certificate_hash": "f491d6e0d6fa04fffdbb213e8dd96e27478a4292"
+          }
+        },
+        {
+          "client_id": "879742618722-jnnvh50sg6gjrnpgvqisgeimdh0du4fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxBx59J_iYr8pHwr57kmNFKl2FxVNijQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879742618722-jnnvh50sg6gjrnpgvqisgeimdh0du4fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879742618722-2tp3u4fb73kpoc1ll02m7vi7k3fqgfmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BrudCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879742618722:android:3e5cae8945dabe3495953b",
+        "android_client_info": {
+          "package_name": "com.brudrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879742618722-46sfg3fq95p65827u4ckvdimmdmtvg49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brudrestaurant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "879742618722-7tkg3ceedt7gabpqesjhpgms3kfv9q10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brudrestaurant",
+            "certificate_hash": "27612d042cfb08d42e237be4d2d18fc872ed8ba0"
+          }
+        },
+        {
+          "client_id": "879742618722-jnnvh50sg6gjrnpgvqisgeimdh0du4fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxBx59J_iYr8pHwr57kmNFKl2FxVNijQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879742618722-jnnvh50sg6gjrnpgvqisgeimdh0du4fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879742618722-2tp3u4fb73kpoc1ll02m7vi7k3fqgfmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BrudCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
